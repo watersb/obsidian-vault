@@ -1,3 +1,9 @@
+---
+modified: 2021-08-08T02:08:05-06:00
+---
+
+# Intro
+
 Some time in the early months of 2008, I was wedged into a teleconference room at the National Radio Astronomy Observatory's Array Operations Center in Socorro, New Mexico, with the rest of the analysis software's development team for the ALMA radio telescope. We had just completed a video call with our colleagues at the European Southern Observatory near Munich.
 https://public.nrao.edu/
 https://aoc.nrao.edu/
