@@ -1,3 +1,9 @@
+---
+modified: 2021-08-09T04:33:21-06:00
+---
+
+# How Many Radios?
+
 At the Apple World Wide Developer Conference during the summer following Steve Jobs' announcement of the iPhone, the excitement was palpable. People were keyed up. Everyone knew that the world had changed fundamentally, but there were still no iPhones available to the general public. There were no iPhones available to general developers, either.
 
 The world had changed, but no one knew how. What shape the  new world would be when it arrived. And two days in, we still didn't know... Which led us to believe that as far as Apple had planned for a developer community for the iPhone, the plan was that there was no developer community for the iPhone. It didn't exist yet. At most, Apple might seemed to have expected the phone's capabilities to suggest new web services. A web site with some nice design for the small screen, done in an afternoon. Boom! Sweet!
@@ -26,4 +32,3 @@ How many radios?
 
 
 We had no doubt that major players like Microsoft or Google had some team working with the things (although now indeed I do have doubts). Major wireless vendors had test units. No one knew how that was going to turn out in the short term. In the USA, in exchange for taking a risk at dedicating major engineering resources and an untested business model to an absolute newcomer to mobile telephony, AT&T had a two year exclusive right to sell and support the iPhone.
-
