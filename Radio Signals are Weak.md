@@ -1,3 +1,9 @@
+---
+modified: 2021-08-09T04:31:04-06:00
+---
+
+# Radio Signals Are Weak
+
 #### or, the telescopes are very sensitive
 
 I have trouble wrapping my head around the scale of the radio energy that has become an essential utility in domestic life.
