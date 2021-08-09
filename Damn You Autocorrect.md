@@ -1,5 +1,6 @@
 ---
-modified: 2021-08-09T04:33:42-06:00
+modified: 2021-08-09T04:34:38-06:00
+type: Journal
 ---
 
 # Damn You Autocorrect
