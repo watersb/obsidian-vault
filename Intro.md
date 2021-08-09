@@ -10,11 +10,7 @@ https://aoc.nrao.edu/
 https://public.nrao.edu/telescopes/alma/
 https://www.eso.org/public/
 
-Let’s say that the total area of all radio telescopes is about half of a square kilometer. 
-https://1drv.ms/x/s!Am3-VK1imaDit7EPQZdMYFtQvp8EhQ
-Karl Jansky first detected a stellar radio source Cassiopeia A in August 1931. Cassiopeia A observations are typically 3000 Jy. Let’s create an alternate history, in which each radio telescope ever built continuously observed this radio source, until it fell apart or until the present day … Total received energy from August 1931 to now would be less than the amount of mechanical energy it would take to type this paragraph on a typical mechanical keyboard!
 
-http://physics.wku.edu/~gibson/radio/brightness.html
 I was scanning over my notes as the meeting adjourned, and something didn't seem quite right. The details are lost to me now. Someone had thrown out the phrase "VAX MIPS", a Million Instructions per Second (MIPS) on an early-1980s minicomputer. It had been an offhand comment, but had reflected an assumption in the design that I wanted to check. I pulled out my iPhone to get some numbers I had bookmarked.
 https://en.m.wikipedia.org/wiki/VAX
 https://en.m.wikipedia.org/wiki/VAX-11
