@@ -1,3 +1,9 @@
+---
+modified: 2021-08-09T04:31:46-06:00
+---
+
+# Essential Services for Modern Living
+
 Trying to prioritize needs, we seem to agree on breathable air as the most immediate need. As is often the  car with all of our most fundamental requirements for survival, we take breathing for granted -- until something prevents us from doing so! A healthy human can usually hold their breath for a minute or so, and with practice can increase that to as much as four minutes, but that's quite uncomfortable and requires serious practice... But why even mention the air? It's always there, it's not a resource that can be bought out sold. But it's fire season in California once more. Last year (2020), the wildfires were so dense, so extreme, that the air of much of the state of California was a thick miasma of smoke and perhaps fog. The skies were darker than late even tide, a noonday sim trying to peek through the choking clouds. Hard to believe. It was not safe to venture outside because of the poisonous air, but indoors was hardly any better. Those better prepared may have air filters that they can use to create a bit of respite. But it's hard.
 
 COVID-19 also served as a reminder that breathing is a vital part of moment to moment...
