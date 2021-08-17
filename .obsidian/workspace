@@ -7,11 +7,8 @@
         "id": "9cabdd400cc13643",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How Many Radios?.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "How Many Radios?.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -85,7 +81,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "How Many Radios?.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -96,11 +91,15 @@
   },
   "active": "9cabdd400cc13643",
   "lastOpenFiles": [
-    "How Many Radios?.md",
-    "How Many.md",
-    "Radio Signals are Weak.md",
+    "2021-08-03-01-21-46.md",
+    "Daily/2021-07-30.md",
+    "How Many Radios.md",
     "Basic needs for survival.md",
-    "Untitled.md",
-    "Intro.md"
+    "2021-08-15-02-56-30.md",
+    "2021-07-30.md",
+    "_/Templates/Daily.md",
+    "2021-08-10-21-04-32.md",
+    "README.md",
+    "How Many.md"
   ]
 }
