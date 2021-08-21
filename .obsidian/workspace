@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "8513816f41d3de82",
+    "id": "999c9880aa4c7c50",
     "type": "split",
     "children": [
       {
-        "id": "9cabdd400cc13643",
+        "id": "763893281876beef",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-08-21-15-14-31.md",
+            "file": "Daily/2021-07-30-22-18-16.md",
             "mode": "source"
           }
         }
@@ -18,11 +18,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8967dcaa94927fa7",
+    "id": "43581ed5572525a8",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bbeda66ab83b2315",
+        "id": "444db444e4fb50b4",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -30,7 +30,7 @@
         }
       },
       {
-        "id": "f9177ad03e588ff8",
+        "id": "4c0e48d39834cebe",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -43,32 +43,21 @@
             "sortOrder": "alphabetical"
           }
         }
-      },
-      {
-        "id": "dcb5357853ef5c4e",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "e05c69ed03a00bea",
+    "id": "c734a994dc620776",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "ffb4b7eecc336c88",
+        "id": "aea5ff4aa3ed09b6",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2021-08-21-15-14-31.md",
+            "file": "Daily/2021-07-30-22-18-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -78,33 +67,12 @@
             "unlinkedCollapsed": true
           }
         }
-      },
-      {
-        "id": "71b2b4f2e1d6be8f",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "2021-08-21-15-14-31.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
       }
     ],
     "currentTab": 0
   },
-  "active": "9cabdd400cc13643",
+  "active": "763893281876beef",
   "lastOpenFiles": [
-    "2021-08-21-15-14-31.md",
-    "Daily/2021-08-21-15-14-91.md",
-    "Damn You Autocorrect.md",
-    "2021-08-03-01-21-46.md",
-    "Daily/2021-07-30.md",
-    "How Many Radios.md",
-    "Basic needs for survival.md",
-    "2021-08-15-02-56-30.md",
-    "2021-07-30.md",
-    "_/Templates/Daily.md"
+    "Daily/2021-07-30-22-18-16.md"
   ]
 }
