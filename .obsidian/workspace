@@ -7,8 +7,11 @@
         "id": "9cabdd400cc13643",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Daily/2021-08-21-15-14-91.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Daily/2021-08-21-15-14-91.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -81,6 +85,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Daily/2021-08-21-15-14-91.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -91,6 +96,8 @@
   },
   "active": "9cabdd400cc13643",
   "lastOpenFiles": [
+    "Daily/2021-08-21-15-14-91.md",
+    "Damn You Autocorrect.md",
     "2021-08-03-01-21-46.md",
     "Daily/2021-07-30.md",
     "How Many Radios.md",
@@ -98,8 +105,6 @@
     "2021-08-15-02-56-30.md",
     "2021-07-30.md",
     "_/Templates/Daily.md",
-    "2021-08-10-21-04-32.md",
-    "README.md",
-    "How Many.md"
+    "2021-08-10-21-04-32.md"
   ]
 }
