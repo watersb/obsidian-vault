@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily/2021-07-30-22-18-16.md",
-            "mode": "source"
+            "file": "Daily/2021-08-03-01-21-46.md",
+            "mode": "preview"
           }
         }
       }
@@ -57,7 +57,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily/2021-07-30-22-18-16.md",
+            "file": "Daily/2021-08-03-01-21-46.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,6 +73,7 @@
   },
   "active": "763893281876beef",
   "lastOpenFiles": [
+    "Daily/2021-08-03-01-21-46.md",
     "Daily/2021-07-30-22-18-16.md"
   ]
 }
