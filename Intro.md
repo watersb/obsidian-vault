@@ -2,7 +2,14 @@
 updated: 2021-08-08T02:08:05-06:00
 ---
 
-# Intro
+### Abstract
+- Computer technology has advanced so quickly that we cannot reason about computational processes.
+  - This isn't a matter of technical expertise. Computer scientists with decades of experience are just as likely to trip up as those of us who lack such training.
+  - Digital electronics time scales are inscrutable; there are as many clock cycles in one second as there are seconds in a human lifetime.
+  - Computer programs and the processes they describe must be understood at many different levels of abstraction.
+  - 
+
+### Intro
 
 Some time in the early months of 2008, I was wedged into a teleconference room at the National Radio Astronomy Observatory's Array Operations Center in Socorro, New Mexico, with the rest of the analysis software's development team for the ALMA radio telescope. We had just completed a video call with our colleagues at the European Southern Observatory near Munich.
 https://public.nrao.edu/
