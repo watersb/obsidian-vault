@@ -1,0 +1,87 @@
+{
+  "main": {
+    "id": "999c9880aa4c7c50",
+    "type": "split",
+    "children": [
+      {
+        "id": "763893281876beef",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily/2021-08-31.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43581ed5572525a8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "444db444e4fb50b4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4c0e48d39834cebe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c734a994dc620776",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aea5ff4aa3ed09b6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily/2021-08-31.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "763893281876beef",
+  "lastOpenFiles": [
+    "Daily/2021-08-31.md",
+    "_/Templates/Daily.md",
+    "Daily/2021-08-11-04-03-09.md",
+    "Daily/2021-08-31-00-15-54.md",
+    "Daily/2021-08-31-00-13-15.md",
+    "Intro.md",
+    "Daily/2021-08-27-00-33-87.md",
+    "Daily/2021-08-27-00-33-74.md",
+    "Untitled.md",
+    "Basic needs for survival.md"
+  ]
+}
