@@ -1,6 +1,6 @@
 ---
 created: 2022-05-06T04:22:32-06:00
-updated: 2022-05-06T05:19:58-06:00
+updated: 2022-05-06T05:29:18-06:00
 title: Dream
 ---
 
@@ -30,12 +30,16 @@ The fields held. Generated gravity, inertial dampers masked the worst of the qua
 And sixty percent of those blast doors remaining had stood open for so long that they rejected the command to close as invalid. The explosions tore through the compound unchecked.
 
 
-The earth shook and the roar, you could hardly hear yourself think. Still she called to him: Nicket, look at me! Look at me! as he chased the shiny balloons, jumping and turning as they rose into the air. And an insane hope rose within her, something akin to despair, to love so deeply as to lose oneself completely, and Nicket would raise his face to her, sunflower to the light, with those eyes, those golden serpent eyes.
+The earth shook and the roar, you could hardly hear yourself think! Still she called to him: Nicket, look at me! Look at me! as he chased the shiny balloons, jumping and turning as they rose into the air. And an insane hope rose within her, something akin to despair, to love so deeply as to lose oneself completely, and Nicket would raise his face to her, sunflower to the light, with those eyes, those golden serpent eyes.
 
 , gold and deeper than the greatest well
 Bottomless 
 
 
 He was once again in his own time. Or so the clock said: 8018, the third day of the month of Sarastry.
+
+To travel between the stars, you had to fall back in time, you had to surrender completely to it. The first to travel in this way died from it, the entropy reversal turned mind into mush. In the thousands of years, as Man discovered Man, each world thinking themselves the only life in the vastness, many paths of walking madness shined light into corridors locked away in the mind. For it did not exist. Mind was a contradiction; indeed no other life seemed to harbor the sense of self so universal among the Terran animals. For every universe of Cats and dogs, there was  the dreaming Nautilus, half a billion years of mind dispersed in time and not a locus of individual existence.
+
+You could not walk between stars as a man. You had to fall like the sea.
 
 "So you're back," she said, flat voice, promising nothing. But of course there was no "back" in time. Only that River that runs forever.
